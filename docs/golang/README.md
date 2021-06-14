@@ -14,7 +14,7 @@
 
 ## 技术栈目录
 
-+ [Golang](/golang/Basics/Basics.html) Go基础入门,go的基本库
++ [Golang](/golang/go/Basics.html) Go基础入门,go的基本库
 + [go web](/golang/web/beego.html) Go的web框架,beego,iris
 + [go gui](/golang/gui/gtk.html) Go的GTK开发
 
