@@ -1,9 +1,9 @@
 ---
 home: true
-title: Golang研究所
+title: go研究所
 lang: zh-CN
 heroImage: 'logo.jpg'
-heroText: Golang研究所
+heroText: go研究所
 tagline: 本文档是作者从事 Golang  以来的学习历程，旨在为大家提供一个较详细的学习教程，侧重点更倾向于 Golang 服务端所涉及的技术栈，如果本文能为您得到帮助，请给予支持！
 ---
 <div style="display: flex;justify-content: center;">

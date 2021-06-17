@@ -125,7 +125,7 @@ vim 打开文件 添加
 export GOPATH=/home/cc/go
 export GOROOT=/usr/local/go
 export PATH=$PATH:/usr/local/go/bin
-export PATH=$PATH:$GOROOT:$GOROOT:/bin
+export PATH=$PATH:$GOPATH:$GOROOT:/bin
 ```
 ![golang](./img/e0fdc44d1b83e59f85dadf868a6e907.png "golang")
 
@@ -151,3 +151,4 @@ export PATH=$PATH:$GOROOT:$GOROOT:/bin
 
 ![golang](./img/ca31a641b3a06d3b5667c2089d9dafc.png "golang")
 ![golang](./img/0b4507fcbd61931769dc1006b08a1da.png "golang")
+
